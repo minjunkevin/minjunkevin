@@ -18,7 +18,7 @@
 
 <h3 align="center">[ Activity ]</h3>
 
-<em>Do you want to know more? Here is my [CV](CV_shim.docx).</em>
+<em>Do you want to know more? Here is my [CV](CV_shim_0324.docx).</em>
 
 |Organization|Activity|Year|
 |:---:|:---:|:---:|
